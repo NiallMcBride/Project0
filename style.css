@@ -1,0 +1,64 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+label 
+{
+    font-size: 12px;
+}
+
+.links
+{
+    font-size: 15px;
+    text-align: right;
+}
+
+.form
+{
+    margin-top: 200px;
+}
+
+input
+{
+    border-radius: 5px;
+    border-color: lightgrey;
+}
+
+input[type="text"]
+{
+    margin:10px; 
+    width:300px;
+}
+
+input[type="submit"]
+{
+    background-color: lightgrey;
+}
+
+#form-advanced
+{
+    margin-left: 40px;
+    width: 500px;   
+}
+
+#form-advanced label
+{
+        text-align: left;
+        float: left;
+        margin: 10px;
+}
+
+#form-advanced input
+{
+        float: right;
+        margin: 10px;
+}
+
+#submit-advanced
+{
+    background-color:#327ffa;
+    color: white;
+    padding: 5px;
+    border: 1px solid #013486;
+}
